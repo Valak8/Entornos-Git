@@ -9,7 +9,6 @@ public class Trabajo {
 		System.out.println("Esto es un cambio de el usuario1");
 		System.out.println("Hola soy Marta");
 		System.out.println("Hola soy Juan");
-		System.out.println("Esto es el branch de prueba");
 
 	}
 
