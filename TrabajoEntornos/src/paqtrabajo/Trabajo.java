@@ -6,6 +6,7 @@ public class Trabajo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola mundo!!!");
 		System.out.println("Esto es un cambio");
+		System.out.println("Esto es un cambio de el usuario1");
 
 	}
 
