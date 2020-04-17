@@ -8,6 +8,7 @@ public class Trabajo {
 		System.out.println("Esto es un cambio");
 		System.out.println("Esto es un cambio de el usuario1");
 		System.out.println("Hola soy Marta");
+		System.out.println("Hola soy Juan");
 
 	}
 
